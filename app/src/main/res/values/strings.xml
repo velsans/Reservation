@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="title_album">Album</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_notification">Notification</string>
+
+    <string name="APINotResponding">No Records</string>
+    <string name="Type_your_keyword_here">Type artist name or track name</string>
+</resources>
